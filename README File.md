@@ -1,6 +1,6 @@
 
 # ReadJeff
-***
+
 
 
 A Readme for Jeff's Github repositories. This is intended to supplement my resume.
@@ -8,10 +8,11 @@ A Readme for Jeff's Github repositories. This is intended to supplement my resum
 Last Updated August 2019
 
 # I see you have a GitHub account, Jeff. What are all these projects?
-***
 
-## <font color= green>IBM Coursera Capstone Project</font> + text in green
-***
+
+
+## <font color= green>IBM Coursera Capstone Project</font> 
+
 
 This project utilizes clustering algorithms, venue data from the Foursquare API, and weather data from the OpenWeatherMap API in order to help restaurant owners decide which New York or Toronto neighborhoods they should consider opening up a restaurant in. Web scrapping was used to obtain neighborhood postal codes from Wikipedia and Geopy was used to determine the corresponding latitudes and longitude values for these neighborhood postal codes. I've broken up the thought process behind the project below and listed any limitations or improvements that can be made to the project. 
 
