@@ -10,7 +10,8 @@ Last Updated August 2019
 
 
 
-## <font color= green>(https://www.google.com "IBM Coursera Capstone Project")t</font> 
+## [IBM Coursera Capstone Project](https://www.google.com)
+
 
 
 
