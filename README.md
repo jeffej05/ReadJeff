@@ -32,7 +32,7 @@ This project utilizes clustering algorithms, venue data from the Foursquare API,
 ## [Revenue-at-Risk Report Automation](https://github.com/jeffej05/Pacing_Automation)
 
 
-This was my first big automation project with python. The Revenue-at-Risk Report tracks all of IBM Watson Advertising's current campaign performances in terms of delivery and percentage pacing towards our overall booked revenue goal. I've broken down the features of this report below and any thoughts on how it can be improved for the future as the automation process is still ongoing for this report. Please note that all confidential company and personal information has been taken out of the script.
+This was my first big automation project with python. The Revenue-at-Risk Report tracks all of IBM Watson Advertising's current campaign performances in terms of delivery and percentage pacing towards our overall booked revenue goal. I've broken down the features of this report below and any thoughts on how it can be improved for the future. Please note that all confidential company and personal information has been taken out of the script.
 
 1.) Data Import- We are currently manually downloading the raw data CSV file from Qlik Sense but for the future, the plan is to either set up a direct connection to the database using pyodbc or utilize Selenium to automatically log into Qlik Sense to retrieve the csv data file for us. This way, we will have an automated report pulling process for this report.
 
