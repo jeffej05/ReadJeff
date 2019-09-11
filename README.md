@@ -10,7 +10,7 @@ Last Updated August 2019
 
 
 
-## [IBM Coursera Capstone Project](https://github.com/jeffej05/Coursera_Capstone)
+## [IBM Coursera Capstone Project](https://github.com/jeffej05/IBM_Coursera_Capstone_Project)
 
 
 
